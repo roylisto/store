@@ -60,6 +60,13 @@ $ composer install
 
   ```$ npm install```
 
+- Build frontend for dev
+
+  ```$ npm run dev```
+
+- Build frontend for prod
+
+  ```$ npm run prod```
 
 ### Run the application
 
