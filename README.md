@@ -1,6 +1,8 @@
 # Building an E-commerce platform with Laravel and Vue
 This is a demo application showing how to build an e-commerce platform using Laravel and Vue.
 
+Demo: http://store-id.freesite.vip/
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
